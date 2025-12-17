@@ -24,7 +24,7 @@ description: >
   This is Yoonsang Lee's personal website using github and jekyll.
 # this means to ignore newlines until "baseurl:"
 url: "https://hsnlys915.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/gitblog" # the subpath of your site, e.g. /blog
+# baseurl: "/gitblog" # the subpath of your site, e.g. /blog
 # twitter_username: jekyllrb
 github_username:  hsnlys915
 
