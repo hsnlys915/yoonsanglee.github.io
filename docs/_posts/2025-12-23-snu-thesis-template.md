@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SNU Thesis Template
-date: December 23, 2025 13:48
+date: December 23, 2025
 ---
 
 As part of my graduate training in political science and international relations, I have learned to use basic programming and document-preparation tools such as **R** and **LaTeX** for statistical social science research.
