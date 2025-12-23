@@ -5,7 +5,7 @@ title: SNU Thesis Template
 
 As part of my graduate training in political science and international relations, I have learned to use basic programming and document-preparation tools such as **R** and **LaTeX** for statistical social science research.
 
-Alongside my thesis work, I began a side project to develop **LaTeX thesis templates** in both **Korean** and **English**, using LaTeX. These templates are designed for students in the **Department of Political Science and International Relations at Seoul National University**, and references official thesis template document provided by the department.
+Alongside my thesis work, I began a side project to develop **LaTeX thesis templates** in both **Korean** and **English**, using LaTeX. These templates are designed for students in the **Department of Political Science and International Relations at Seoul National University**, and are referencing official thesis template document provided by the department.
 
 Here, I present a **working version of a master’s thesis template** for the department.
 
